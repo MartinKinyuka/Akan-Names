@@ -22,3 +22,10 @@ body{
 .text{
   clear: both;
 }
+.btn{
+  position: relative;
+  margin-left: 700px;
+}
+.last{
+  text-align: center;
+}
