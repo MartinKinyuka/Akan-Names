@@ -1,12 +1,12 @@
-# PORTFOLIO LANDING PAGE
+# AKAN NAMES GENERATOR WEBSITE
 
 ## AUTHOR: MARTIN KINYUKA KURIA
 
 ### **DESCRIPTION**
 
->This website details the portfolio of student developer:Martin Kinyuka. It lists some of his previous projects and also has his profile alongside his profile picture.
+>This website takes the input of a birth date and gender and returns the would be Akan name had the person been of Ghanian descent.
 
->The site also has contacts to his various social media; link to his github repo and physical addresses/ telephone contacts.
+>It lists the names alongside the days of the week therefore one can learn the date of their birth by referencing the name given to the list provided.
 
 ### **DEVELOPMENT**
 
@@ -29,6 +29,7 @@
 
 1. CSS
 2. HTML
+3. JavaScript
 
 ### TECHNOLOGY USED
 
@@ -36,7 +37,7 @@
 
 ### LIVE SITE
 
->View the live site at:https://martinkinyuka.github.io/Portfolio-Landing-Page/
+>View the live site at:https://martinkinyuka.github.io/Akan-Names/
 
 ### LICENCE
 
