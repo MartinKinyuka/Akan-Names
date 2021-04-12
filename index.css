@@ -10,9 +10,14 @@ body{
 }
 .female{
   float: right;
+  margin-right: 200px;
 }
 .male{
   float: left;
+  margin-left: 200px;
+}
+.male h2{
+  text-align: center;
 }
 .text{
   clear: both;
