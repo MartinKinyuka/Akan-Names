@@ -5,4 +5,15 @@ h1{
 }
 body{
   background-color: brown;
+  color:black;
+  font-size: large;
+}
+.female{
+  float: right;
+}
+.male{
+  float: left;
+}
+.text{
+  clear: both;
 }
