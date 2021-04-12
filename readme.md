@@ -35,6 +35,9 @@
 
 1. Git
 
+### BDD
+>As a user, once you have gone through the description of what the site does, you will be required to input your date of birth in the format mm/dd/yyyy and then click either male or female radio button. Once you click submit your Akan name shall be displayed. Should you miss to either fill in your date of birth or pick a gender then the page will alert you to fill in all the details.
+
 ### LIVE SITE
 
 >View the live site at:https://martinkinyuka.github.io/Akan-Names/
