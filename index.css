@@ -22,10 +22,21 @@ body{
 .text{
   clear: both;
 }
-.btn{
+
+.last{
+  text-align: center;
+}
+.input{
   position: relative;
   margin-left: 700px;
 }
-.last{
+.btn{
+  border: none;
+  border-radius: 5px;
+  width: 100px;
+  padding: 10px;
   text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: large;
 }
