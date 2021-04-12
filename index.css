@@ -40,3 +40,10 @@ body{
   display: inline-block;
   font-size: large;
 }
+#yourAkanName{
+  background-image: url(kente2.jpg);
+  color: antiquewhite;
+  font-size: x-large;
+  font-weight:bolder;
+  text-align: center;
+}
