@@ -39,6 +39,10 @@
 
 >View the live site at:https://martinkinyuka.github.io/Akan-Names/
 
+### KNOWN BUGS
+
+>If the date is not written in the correct format that is mm/dd/yyyy then the Akan name given in the display is undefined instead of prompting the user that the date has been entered erroneously.
+
 ### LICENCE
 
 >This project is under the [MIT licence](licence)
