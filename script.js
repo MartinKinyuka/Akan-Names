@@ -12,10 +12,10 @@ function getAkanName(){
 function conversionFunction(birthDay,fmle,mle){
   var birthDate = new Date(birthDay);
   var dayOfWeek = birthDate.getDay();
-  if(fmle.checked == true){
+  if(fmle.checked == true && dayOfWeek>=0){
     document.getElementById("yourAkanName").innerHTML = "Your Akan name is "+ femaleNames[dayOfWeek];
   }
-  else if(mle.checked == true){
+  else if(mle.checked == true && dayOfWeek>=0){
     document.getElementById("yourAkanName").innerHTML = "Your Akan name is "+ maleNames[dayOfWeek];
   }
   else{
